@@ -1,0 +1,9 @@
+[submodule "FeedbackWidget-web"]
+	path = FeedbackWidget-web
+	url = https://github.com/Luciano-Ferreira/FeedbackWidget-web
+[submodule "FeedbackWidget-mobile"]
+	path = FeedbackWidget-mobile
+	url = https://github.com/Luciano-Ferreira/FeedbackWidget-mobile
+[submodule "FeedbackWidget-server"]
+	path = FeedbackWidget-server
+	url = https://github.com/Luciano-Ferreira/FeedbackWidget-server
